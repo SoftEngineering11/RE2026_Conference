@@ -1,0 +1,788 @@
+{
+  "forumKey": "moodleWorkplace",
+  "forumName": "moodleWorkplace",
+  "sourceFile": "moodleWorkplace_31_1_updated.json",
+  "sampleSize": 19,
+  "filteredOutWithImages": 12,
+  "posts": [
+    {
+      "PostID": 470751,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=470751",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "Edwiser Bridge/WooCommerce in Workplace",
+          "Text": "Hi, has anyone successfully set up Edwider Bridge/WooCommerce with Moodle Workplace? I've seen a few references to it, but no reports of anyone getting this to work successfully with Workplace (not just LMS). Thanks and apologies if I missed a relevant post!",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Tuesday, November 4, 2025, 8:07 AM",
+          "AuthorName": "Ryan Bingham",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=7746889&course=5",
+          "role": [
+            "Picture of Ryan Bingham"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    },
+    {
+      "PostID": 470658,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=470658",
+      "NoOfResponses": 5,
+      "ResponsesInList": [
+        {
+          "Title": "Showing courses in programs on dashboard",
+          "Text": "Hello, We are currently exploring how to optimize our dashboard . During this process, we realized that showing courses our users are enrolled in through programs would be a great feature. Is that currently possible? I can't seem to figure out how to do it. Any help or advice would be greatly appreciated. Best regards, Håkon",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, October 29, 2025, 5:45 PM",
+          "AuthorName": "Håkon Strøm",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=7213494&course=5",
+          "role": [
+            "Picture of Håkon Strøm"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Showing courses in programs on dashboard",
+          "Text": "Hi Hakon, Are you using the Course Overview block on your Dashboard or My Learning? If you use Course Overview, then there is a setting in Appearance/Custom Theme Settings / Workplace that you can enable/disable to hide progrmas in the course Overview block. Not sure if this helps? Type hideprogramcourses into the search bar in Site Administration and the checkbox should pop up. Deb",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, October 29, 2025, 6:45 PM",
+          "AuthorName": "Deb Gyde",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=4934592&course=5",
+          "role": [
+            "Picture of Deb Gyde"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "Showing courses in programs on dashboard",
+          "Text": "Hello Deb, Thank you very much! This brings us a lot further. It seems to me that we now get courses that have been started by the user. Is there a way to get all courses in the program somehow? As soon as a user has been enrolled in a program, all the courses in said program will show up through the Course Overview? Best regards, Håkon",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, October 29, 2025, 8:43 PM",
+          "AuthorName": "Håkon Strøm",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=7213494&course=5",
+          "role": [
+            "Picture of Håkon Strøm"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "Showing courses in programs on dashboard",
+          "Text": "Hi Hakon, One of the things we found with Programs, was that enrolling someone in a program doesn't automatically enrol them in the included courses.  The courses either had to be set up for self-enrolment and once the user did that, then they would appear in the course overview. Our other option was to create a new dynamic rule based on a user being added to a program that enrols the students into the course manually.   The annoying part of this was trying to undo course enrolments though, because if it's assigned via dynamic rule, it needs a reversing dynamic rule to action any unenrolments.  This is part of the reason why we didn't end up using Programs.   We ended up using the course recompletion plugin instead, as that suited our recertification needs better at an individual course level. Hope you find a solution that works for you. Deb",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Thursday, October 30, 2025, 6:17 AM",
+          "AuthorName": "Deb Gyde",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=4934592&course=5",
+          "role": [
+            "Picture of Deb Gyde"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "Showing courses in programs on dashboard",
+          "Text": "Hey, so I agree this is a pain point, but the good news is that in Workplace 5.1, they've added a setting when you're creating programs to decide the Course Enrollement status -- you can either have them enrolled only the first time the user access the course (current behavior) or As soon as the course is available to the user (this will not enroll them in everything though unless the courses in the program are set to \"in any order\") but this at least is a help for me.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Thursday, October 30, 2025, 9:43 PM",
+          "AuthorName": "John Provasnik",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1815298&course=5",
+          "role": [
+            "Picture of John Provasnik",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 470492,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=470492",
+      "NoOfResponses": 2,
+      "ResponsesInList": [
+        {
+          "Title": "Is selfhosting possible?",
+          "Text": "Hello, I looked trough the official Moodle Workplace page and also the pages of certified partners and I am not really getting if it is possible to just purchase a licence of Moodle Workplace to host it by ourselfes. Can someone tell me if its possible to just purchase a licence without a hosting at a certified Partner? Greetings Marvin",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Monday, October 20, 2025, 1:40 PM",
+          "AuthorName": "Marvin H",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=5010668&course=5",
+          "role": [
+            "Picture of Marvin H",
+            "Picture of Particularly helpful Moodlers"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Is selfhosting possible?",
+          "Text": "Hi Marvin It is not possible to self host Moodle Workplace, it has to be done by a premium Moodle partner.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Monday, October 20, 2025, 3:38 PM",
+          "AuthorName": "Chris Pratt",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=85769&course=5",
+          "role": [
+            "Picture of Chris Pratt",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 470407,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=470407",
+      "NoOfResponses": 2,
+      "ResponsesInList": [
+        {
+          "Title": "Organisation structure vs Team overview show different “reports to” results for Department lead (Workplace 4.5)",
+          "Text": "Hi everyone, I’m seeing a discrepancy in Moodle Workplace where the Organisation structure page shows empty \"report to\" list for a senior manager user, while the Team overview block for the same user correctly shows all managed staff across sub-departments including all lower-level managers and workers. Context : The hierarchy is CEO → Head Supervisor (Manager) → Supervisor (Manager) → Worker. In Site administration → Users → Organisation → Organisation structure , the user Head Supervisor displays an empty “People reporting to” list. However, when logging in as that same user, the Team overview renders as expected and includes managers from sub-departments plus their workers. The Workplace documentation states: “Department lead: This is the manager of anyone in a lower department or sub-department(s), regardless of their position.” See: https://docs.moodle.org/405/en/Organisation_structure#Positions Our analysis points to two different query paths. The Organisation structure view appears to use a helper that returns users in the same department and excludes manager roles, which results in an empty list when the lead sits in a different department node than the staff they manage. Reference (code path): `admin/tool/organisation/classes/helper.php` > \n```text\nget_all_direct_managed_users_\nsql\n()\n```\n in Workplace 4.5. The Team overview uses a reporting helper that returns all managed users regardless of department membership, which aligns with the documentation and produces the correct list. Reference (code path): `admin/tool/organisation/classes/local/helpers/reporting.php` > `get_managed_users_select()` in Workplace 4.5. Given the Workplace doc’s definition of “Department lead,” my working assumption is that Organisation structure should reflect the same cross-department management resolution as Team overview. As it stands, Organisation structure appears to be applying a same-department constraint that contradicts the documented behaviour and the Team overview output. So , what’s the recommended way to address this? I’d appreciate your advice. Regards, Dustin",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, October 15, 2025, 12:52 PM",
+          "AuthorName": "Dustin Huynh",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=7808453&course=5",
+          "role": [
+            "Picture of Dustin Huynh"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Organisation structure vs Team overview show different “reports to” results for Department lead (Workplace 4.5)",
+          "Text": "Hi Dustin, This post belongs in the partner forums, where we can discuss implementation details and raise tracker tickets if needed. Would you mind posting it there, please? I’ve sent you the link via DM. Cheers, Emilio",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, October 15, 2025, 3:52 PM",
+          "AuthorName": "Emilio Lozano",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1525875&course=5",
+          "role": [
+            "Picture of Emilio Lozano",
+            "Picture of Moodle HQ",
+            "Picture of Moodle Workplace team",
+            "Picture of Particularly helpful Moodlers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 469957,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=469957",
+      "NoOfResponses": 2,
+      "ResponsesInList": [
+        {
+          "Title": "Sorting Reports - Program Progress PERCENTAGE",
+          "Text": "Hi, I would like to be able to sort a program progress report based on a program's progress percentage , but that is currently not available. My use case is that we are encouraging involvement by holding a contest that gives rewards based on the amount of courses completed in a program. So we would like our managers to be able to view a report sorted by progress percentage easily. Since there is no way to do so, I am manually downloading the report and sorting that column in Excel. My second wish, based on this use case, is for a dynamic rule condition for progress percentage. For our contest, a gold certificate is rewarded for 100% completion of a program (which is easy to automate). And the silver certificate is rewarded for at least 3 courses completed in the program (no built in way to automate). My work around for silver is to change the settings of the program so that it is marked as completed when at least 3 courses are completed. For gold, I created a dynamic rule that issues the certificate when all of the courses contained in that program are completed. Though it is clunky, at least it is automated. I am surprised more people don't want to sort by percentage complete! And it would be great if there was a dynamic rule condition for progress percentage or by completion of course sets! 😀",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, September 19, 2025, 3:31 AM",
+          "AuthorName": "Amanda Chan",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=4606261&course=5",
+          "role": [
+            "Picture of Amanda Chan"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Sorting Reports - Program Progress PERCENTAGE",
+          "Text": "I'm pretty sure I created a tracker for sorting by percentage compete. I no longer have WP access as I don't work for a premium partner any more so cannot double check, but it might be worth a search and asking for a progress update.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, September 19, 2025, 5:13 AM",
+          "AuthorName": "Chris Pratt",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=85769&course=5",
+          "role": [
+            "Picture of Chris Pratt",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 448218,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=448218",
+      "NoOfResponses": 2,
+      "ResponsesInList": [
+        {
+          "Title": "Looking for similar Moodle Workplace use cases",
+          "Text": "Hello all! We currently have an instance of Moodle Workplace that we are using to house mostly self-paced training courses. However, our partner also on our instance is going to host some live courses on the site. I am trying to find other organizations that have a similar use case as us to see how you are handling certain components of your online training via Moodle Workplace. For example, some of what we would like to see on Moodle Workplace is the following: - A registration wait list for live course offerings - The ability to manually manipulate a wait list for live course offerings (from the site or tenant admin perspective), such as manually arranging the order of participants on the wait list - The ability to create comprehensive reports using data from various areas of the site (e.g. roster of course participants combined with quiz data, feedback data, etc.) Does anyone have similar needs, and if so, how are you accomplishing this in Moodle WP? I'm attempting to avoid additional plugins since those are not always maintained past certain versions, so any suggestions that don't involve those plugins would be great. Thanks!",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Saturday, July 1, 2023, 5:00 AM",
+          "AuthorName": "Sarah Zaldana",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=5147181&course=5",
+          "role": [
+            "Picture of Sarah Zaldana"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Looking for similar Moodle Workplace use cases",
+          "Text": "Curious if you made any progress on it? currently we do the wait lists off-line. We're also working on finding an external system to assist with creating comprehensive reports instead of manually pulling the data from several places within the system.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, August 29, 2025, 8:57 PM",
+          "AuthorName": "John Provasnik",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1815298&course=5",
+          "role": [
+            "Picture of John Provasnik",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 469057,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=469057",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "Recertification in WorkPlace",
+          "Text": "When employees get the recertification notification, the course in the 'recertification' is already finished from the previous period/year. It doesn't reset to start a new course. Why is that in Moodle workplace recertification?",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Tuesday, July 22, 2025, 12:39 PM",
+          "AuthorName": "John Boe",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=7500554&course=5",
+          "role": [
+            "Picture of John Boe"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    },
+    {
+      "PostID": 468706,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=468706",
+      "NoOfResponses": 3,
+      "ResponsesInList": [
+        {
+          "Title": "Issue with report after upgrading to Moodle Workplace 4.5.4+",
+          "Text": "Hi everyone, We recently upgraded our platform to Moodle Workplace 4.5.4+ (Build: 20250519) and have encountered an unexpected issue with one of our custom reports created using the Report Builder. Before the upgrade, we had a report that displayed how many users had selected each option from a custom user profile field of type dropdown menu, using the \"Count\" action. This allowed us to clearly see the total number of users per selected option. However, after the update, the report no longer shows the total per option. Instead, each option appears multiple times with the value \"1\", rather than aggregating the total number of users who selected it. Has anyone else experienced this? Is there a way to restore the previous behaviour or an alternative solution to view the total count per selected option? Any help would be greatly appreciated. Thanks in advance!",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Monday, June 30, 2025, 4:16 PM",
+          "AuthorName": "Magalí Lescano Correa",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=4754380&course=5",
+          "role": [
+            "Picture of Magalí Lescano Correa"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Issue with report after upgrading to Moodle Workplace 4.5.4+",
+          "Text": "Hi Magali Thanks for the report - I think your issue is the same as recorded in the tracker at MDL-85558",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Monday, July 7, 2025, 11:34 PM",
+          "AuthorName": "Paul Holden",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=219220&course=5",
+          "role": [
+            "Picture of Paul Holden",
+            "Picture of Core developers",
+            "Picture of Moodle HQ",
+            "Picture of Moodle Workplace team",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Peer reviewers",
+            "Picture of Plugin developers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "Issue with report after upgrading to Moodle Workplace 4.5.4+",
+          "Text": "Hi Paul, Thank you for your message. I will check there. Kind regards",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Tuesday, July 8, 2025, 4:55 PM",
+          "AuthorName": "Magalí Lescano Correa",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=4754380&course=5",
+          "role": [
+            "Picture of Magalí Lescano Correa"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 468658,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=468658",
+      "NoOfResponses": 3,
+      "ResponsesInList": [
+        {
+          "Title": "Is it possible to revert to the previous user search interface in Moodle 4.5?",
+          "Text": "Hi everyone, We have recently updated to Moodle Workplace 4.5.4+ (Build: 20250519) and noticed that the interface for searching and filtering users under Site administration > Users > Accounts > Browse list of users has changed compared to earlier versions. While the new advanced filters are powerful, I’m wondering: Is there any way to revert to the simpler user search interface we had before this change? Are there any settings, plugins, or workarounds that allow us to only use the basic filters, similar to the old layout? We would like to make it easier for less-experienced administrators who might find the new filter system a bit too complex. Thanks in advance for any help or suggestions! Best regards,",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Thursday, June 26, 2025, 4:47 PM",
+          "AuthorName": "Magalí Lescano Correa",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=4754380&course=5",
+          "role": [
+            "Picture of Magalí Lescano Correa"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Is it possible to revert to the previous user search interface in Moodle 4.5?",
+          "Text": "I'm not sure if this is outright helpful, but there are 2 possible options I can think of: 1 - Direct your Admins to Site Administration > Users > Accounts > Bulk users actions -- this uses the older interface and then you can still utilize the \"with selected users --> View on Page\" option. 2 - Consider creating a Custom Report to do your user searching, which will still have the same functionality as the new \"User Management\" page, but you can customize the columns displayed and you can also customize which filters to include to narrow down the amount of options that are there as compared to the default filters on the Manage Users page.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Thursday, June 26, 2025, 11:37 PM",
+          "AuthorName": "John Provasnik",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1815298&course=5",
+          "role": [
+            "Picture of John Provasnik",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "Is it possible to revert to the previous user search interface in Moodle 4.5?",
+          "Text": "Hello John, Thank you very much for your message and for your helpful suggestions. Unfortunately, we’re looking for something closer to the previous version, ideally with fewer clicks involved. Has anyone else encountered this issue and found a workaround? Thank you in advance!",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Monday, June 30, 2025, 3:35 PM",
+          "AuthorName": "Magalí Lescano Correa",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=4754380&course=5",
+          "role": [
+            "Picture of Magalí Lescano Correa"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 467202,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=467202",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "Altering Workplace Certificate",
+          "Text": "I was wondering if anyone could point me in the right direction of which file to modify so that all certificates are sent to a central email address as oposed to the users email address. I thought I had found it in issue_certificates_task.php and then in issue.php and modified the following code \"public function export_for_template(renderer_base $output): array { return [ 'fullname' => fullname($this->issue), 'email' => 'sgtbillcoe@gmail.com', // Fixed recipient email 'expires' => $this->issue->expires > 0 ? userdate($this->issue->expires, get_string('strftimedatetime', 'langconfig')) : get_string('never'), 'timecreated' => userdate($this->issue->timecreated, get_string('strftimedatetime', 'langconfig')), 'status' => $this->issue->status, 'statusstring' => $this->issue->status == 0 ? get_string('expired', 'tool_certificate') : get_string('valid', 'tool_certificate'), 'code' => $this->issue->code, 'previewurl' => template::view_url($this->issue->code), 'verifyurl' => template::verification_url($this->issue->code), but it is still sent to the users email I would also like this process to run while the activity is hidden Any help would be apreasiated",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Tuesday, April 1, 2025, 1:15 AM",
+          "AuthorName": "Bill Coe",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=6267928&course=5",
+          "role": [
+            "Picture of Bill Coe"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    },
+    {
+      "PostID": 466440,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=466440",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "Appointment Bookings using manager approvals or notifications",
+          "Text": "In Moodle Workplace the Appointment Bookings area works well for arranging sessions and booking participants in, however there doesn't appear to be any option to notify managers, or set up a manager approval workflow? The best option would be auto-populating the reporting manager from the Org Structure.  Since Appointment Bookings are specific to Moodle Workplace,  it would make sense that it should be able to leverage the other core Workplace features.  At the very least an option should be available to ask for a manager's email address to be notified. Are there any workarounds to this, or do we have to use a different plug-in?",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, February 28, 2025, 9:13 AM",
+          "AuthorName": "Deb Gyde",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=4934592&course=5",
+          "role": [
+            "Picture of Deb Gyde"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    },
+    {
+      "PostID": 462099,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=462099",
+      "NoOfResponses": 2,
+      "ResponsesInList": [
+        {
+          "Title": "Certifications and Badges",
+          "Text": "Folks, I'd like to award a badge for earning a Certification. I have: A Program of courses. A Certification (not Certificate) that learners earn when they complete the Program. A yearly recertification for the Certification. They must complete the Program again to be re-certified. Once they earn the Certification, I'd like award a badge for that. There is an option to assign a badge under the Certification's Dynamic rules. However, under Dynamic rules the Badge option is grayed out with an \"i\" icon next to it. Hovering over the \"i\" icon gives the message \"No available badges\". I have tried to make a badge available but the Badge option under Certification remains stubbornly unavailable. Details about the Badge and other required settings to make Badges work: The badge exists. Enable course badges is selected. Completion tracking is enabled. Default Completion tracking is set to \"Use activity default\". Completion tracking for all activities in all course in the Program are enabled. Currently, the badge I want to use does not have criteria assigned to it as there doesn't seem to be any option that works with Programs. I could use individual courses but because two different programs use the same two courses in conjunction with others, tying the badge to those two courses will trigger it for both Programs. To say nothing of the fact that the badge should be awarded for earning Certification, not completing the Program. I did create a test badge with criteria to see if this would somehow enable the Dynamic rule for the Certification. It does not. Badges do work on the site. One is assigned on completion of two separate courses. Both of these courses are in two of the Programs. So I'm at a bit of a loss. It would be helpful to have a badge for learners earning a Certification. It does look like it's possible but nothing I try makes that option available. Any help would be great.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Monday, September 16, 2024, 11:03 PM",
+          "AuthorName": "steve ve",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=640&course=5",
+          "role": [
+            "Picture of steve ve"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Certifications and Badges",
+          "Text": "Hi Steve, That all sounds correct, it appears Badges are not integrated into Workplace features. It might be worth creating a tracker to suggest a feature enhancement to allow some Workplace-specific criteria under the badge's \"Add Badge Criteria\" setting, such as \"Completing a program\" or \"Receiving a Certification\".",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Tuesday, January 28, 2025, 3:37 AM",
+          "AuthorName": "John Provasnik",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1815298&course=5",
+          "role": [
+            "Picture of John Provasnik",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 456629,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=456629",
+      "NoOfResponses": 3,
+      "ResponsesInList": [
+        {
+          "Title": "Custom Pages are an amazing Workplace feature",
+          "Text": "Workplace has a Custom Pages feature that allows a page of Block content to exist outside of a \"Course\" context . Links to these Custom Pages automatically appear on the navigation menu when set to be visible. This is very powerful as you have the ability to define who can see these custom pages. For example, you can have a page that only Guests can see, another page that only Authenticated Users can see, and you can even make a \" Dashboard \" that only a specific \"Roles\" or specific \"Users\" can see (I made a reporting Dashboard for my one supervisor that only they can see). One tip I wanted to share is how to prevent a Custom page from automatically appearing on the custom menu. (For example, I created a \"Learning Center\" Custom Page that contains links to two other Custom Pages, but I don't want these two other  Custom Pages to appear on the main Navigation menu.) Use the id# located in the Custom Page's URL and insert that number  at the end of the code below: /* Hide a specific Custom Page from the Primary Navigation Menu */ .primary-navigation li[data-key=\"tool_custompage- 21 \"] {display: none;}",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, March 15, 2024, 10:06 PM",
+          "AuthorName": "John Provasnik",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1815298&course=5",
+          "role": [
+            "Picture of John Provasnik",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Re: Custom Pages are an amazing Workplace feature",
+          "Text": "Hi John, nice tip - thanks for sharing! Noting that we have WP-4015 as a request to improve Custom page/menu navigation, part of which covers the functionality you describe (ability to create \"unlisted\" custom pages)",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Monday, March 18, 2024, 5:43 PM",
+          "AuthorName": "Paul Holden",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=219220&course=5",
+          "role": [
+            "Picture of Paul Holden",
+            "Picture of Core developers",
+            "Picture of Moodle HQ",
+            "Picture of Moodle Workplace team",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Peer reviewers",
+            "Picture of Plugin developers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "Re: Custom Pages are an amazing Workplace feature",
+          "Text": "Hi John, I wonder if your reporting dashboard might be able to help me with my question, which I have posted on teaching with Moodle. https://moodle.org/mod/forum/discuss.php?d=461840 It relates to needing one person per cohort to view activity reports for that cohort only. Many thanks in advance if you have a chance to have a look.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Monday, September 9, 2024, 12:28 PM",
+          "AuthorName": "Gillian Wadams",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=4834530&course=5",
+          "role": [
+            "Picture of Gillian Wadams"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 461558,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=461558",
+      "NoOfResponses": 2,
+      "ResponsesInList": [
+        {
+          "Title": "When removing jobs via user upload, if the job is already deleted, it gets added back",
+          "Text": "When deleting jobs using the user upload interface, I've noticed not all jobs are always deleted. If I upload the same job delete csv with the jobdelete1 column, and zero out the jobs previously deleted, they get added back. It seems there is a bug that ignores the column value of 0 or 1 if the job is already deleted, and then adds it back. In my understanding of having a 0 or 1 in the column, a zero should be no action, and a 1 should delete the job. That is my understanding from the documentation, but in reality a 0 is ignored and the job is added back. Anyone else finding this is the case?",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, August 30, 2024, 3:32 AM",
+          "AuthorName": "Court Pitts",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=6646817&course=5",
+          "role": [
+            "Picture of Court Pitts"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "When removing jobs via user upload, if the job is already deleted, it gets added back",
+          "Text": "I just tested on my WP environment (version 4.4) and here is what I see: Using the following fields, jobs were added for my 4 users: username jobdepartment1 jobposition1 jobstartdate1 jobenddate1 jobdelete1 sampleuser1 sampledept sampleposition 2024-09-23 2025-09-23 0 sampleuser2  sampledept sampleposition 2024-09-23 2025-09-23 0 sampleuser3  sampledept sampleposition 2024-09-23 2025-09-23 0 sampleuser4  sampledept sampleposition 2024-09-23 2025-09-23 0 it did delete a job when using the following fields in a separate CSV; username jobdepartment1 jobposition1 jobdelete1 sampleuser sampledept samplepos 1 I'm not sure the 0 means don't add it back, I think 0 means \"ignore the column\", and 1 means \"do this column's action\"... so when you're adding 0s to previous positions that were deleted, then by including them in the CSV in the future I think it makes sense that they are added back in, meaning, the \"0\" is not a \"no action\" for the row, but instead a \"no action\" for the column if that makes sense. So if you want to reuse a CSV, any 1s should remain 1s in future runs of the CSV (and even though it's already deleted, it will simply just look to delete again the next run and if there's nothing to delete then it's just ignored and not added back).",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, August 30, 2024, 9:56 PM",
+          "AuthorName": "John Provasnik",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1815298&course=5",
+          "role": [
+            "Picture of John Provasnik",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 460247,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=460247",
+      "NoOfResponses": 4,
+      "ResponsesInList": [
+        {
+          "Title": "email-based self-registration with admin confirmation",
+          "Text": "Currently we use the normal Moodle platform We are considering moving to Moodle Workplace. In Moodle workplace it seems that email-based self-registration exists. In the normal Moodle there is a plugin to include with the email based registration an Admin confirmation. Is this possible? we want to first vet each email based registration before giving access to users Thank You",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Monday, July 15, 2024, 4:28 PM",
+          "AuthorName": "Aaron Cauchi",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1640313&course=5",
+          "role": [
+            "Picture of Aaron Cauchi"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Re: email-based self-registration with admin confirmation",
+          "Text": "Hi Aaron, You can use Moodle LMS plugins in Moodle Workplace. As long as they do not touch any Workplace-specific functionality, Moodle LMS plugins are expected to work with Moodle Workplace (see https://docs.moodle.org/en/Workplace_plugins ). Hope it helps. Cheers, Emilio",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, July 17, 2024, 1:41 AM",
+          "AuthorName": "Emilio Lozano",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1525875&course=5",
+          "role": [
+            "Picture of Emilio Lozano",
+            "Picture of Moodle HQ",
+            "Picture of Moodle Workplace team",
+            "Picture of Particularly helpful Moodlers"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "Re: email-based self-registration with admin confirmation",
+          "Text": "Thanks Emilio. Yes, in fact I use the LMS plugin Email-based self-registration with admin confirmation ( https://moodle.org/plugins/auth_emailadmin ) but the last time it was updated was three years ago, so am a bit concerned regards Aaron",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, July 17, 2024, 1:36 PM",
+          "AuthorName": "Aaron Cauchi",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1640313&course=5",
+          "role": [
+            "Picture of Aaron Cauchi"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "Re: email-based self-registration with admin confirmation",
+          "Text": "If you have any concerns with it not working, reaching out the the plugin maintainer is a good start. If you use any email based registration, one thing I do in my site is I leverage the Report Builder -- I have simple report with the following 4 Conditions: Username, Email Address, User Authentication \"is equal to Self Based Registration\", and User Time Created \"Last 1 day(s)\" -- I schedule the report to email me every morning a list of new accounts created the previous day. If anything looks off then I can suspend the account at that point.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, August 9, 2024, 8:39 PM",
+          "AuthorName": "John Provasnik",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1815298&course=5",
+          "role": [
+            "Picture of John Provasnik",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 454023,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=454023",
+      "NoOfResponses": 4,
+      "ResponsesInList": [
+        {
+          "Title": "Dynamic Rules - Notification",
+          "Text": "Greetings, We are using Moodle Workplace to offer certification training that is required to be completed within 90 days. As our MW site grows, we are beginning to notice a growing list of people who pay for training and are not completing it. As a result, we are looking to potentially use the Notification action for users who are Overdue in their certification program to remind folks of their training however, I have a couple of questions on this: How often will this notification populate? Is it a one time deal? Does Moodle software check at periodic intervals and send out notification(s) at such interval? Does the notification only populate within MW, or does it also generate an email? Is there an option or ability to set a notification for those who are coming up (nearing their overdue date)? Is there an option or ability to set a notification for those who have not logged in and completed any work in the last week or two? We are currently running Version 4.2 that was installed by and is hosted by MoodleUS. Thank you in advance! Zain",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, January 3, 2024, 9:50 PM",
+          "AuthorName": "Zain Cronk",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=6170978&course=5",
+          "role": [
+            "Picture of Zain Cronk"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Re: Dynamic Rules - Notification",
+          "Text": "Hello Zain, thanks for posting your Workplace questions. Most of these things are possible, you need to address those questions to your Moodle partner who will be able to provide detailed answer.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Thursday, January 4, 2024, 9:54 PM",
+          "AuthorName": "Ruslan Kabalin",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=23389&course=5",
+          "role": [
+            "Picture of Ruslan Kabalin",
+            "Picture of Core developers",
+            "Picture of Moodle HQ",
+            "Picture of Moodle Workplace team",
+            "Picture of Peer reviewers",
+            "Picture of Plugin developers"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "Re: Dynamic Rules - Notification",
+          "Text": "Hi @Zain, I'm following this thread because we also have the same use case. And from the current moodle workplace version (4.3.3) it looks like we don't have the ability to set condition (in dynamic rules) to send notification based on a relative date (coming up, nearing overdue, set date prior to overdue, etc). It would be good to have this included in the condition so that we can customize when to send out notification. Hope to hear any resolution to this soon. Cheers",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, April 12, 2024, 2:03 PM",
+          "AuthorName": "Val Quimno",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=115895&course=5",
+          "role": [
+            "Picture of Val Quimno"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "Re: Dynamic Rules - Notification",
+          "Text": "The Dynamic Rules look at courses as a whole so it can automate actions based on various course completion statuses, so it won't include options at the individual activity completion level. Consider these options: Overdue activities : T he Pulse plugin ( https://moodle.org/plugins/mod_pulse ) -- it's capable to send reminders for after specific dates if an activity remains overdue. Since Relative Dates is considered an experimental feature at this time, I do not know if it knows to utilize the student's relative due date or not, but if you create a test course with relative dates enabled and pick an activity with an upcoming due date, then set up this plugin in the course to send an overdue message, you can then enroll a a test user after that due date has passed to see if they will get the message on their respective due date. The Reengagement plugin ( https://moodle.org/plugins/mod_reengagement ) also can send reminders for overdue content. Upcoming activities: Both the plugins mentioned above state they have capabilities to send notifications about upcoming activities. Then, there's the built-in Moodle's Analytics system's model for Upcoming activities due (if it's not there by default, you just click add a New model). This will send emails or Web alerts (depending on how the site admin sets up default Messaging - Notification Preferences for \"Insights generated by prediction models\") at one of three defined intervals: Upcoming week, upcoming 3 days, or upcoming fortnight. With that said, it wont provide a list of the activities, instead it directs users to the dashboard 's timeline where they can see/access the upcoming activities. To give it a try with a test user, it's rather simple to set up and get going - while you are testing this out you can turn off these notifications at the site level, then edit the preferences of your test users and enable it just for them so only get that email/web alert. Another option to see the data it will generate for the test users is to go the Analytics Models admin settings page, find the upcoming activities due model and select the test users from the dropdown in the Insights column (they will only appear here once the analytic model has finished running for the interval) to see if they have any upcoming items due data generated, or next to that dropdown select \"Actions - Insight Report\" and then the particular user to see a report of the data. These are the approaches that I have used in my institution so just wanted to share in case you see any value in these options.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Saturday, April 13, 2024, 2:10 AM",
+          "AuthorName": "John Provasnik",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1815298&course=5",
+          "role": [
+            "Picture of John Provasnik",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 457175,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=457175",
+      "NoOfResponses": 3,
+      "ResponsesInList": [
+        {
+          "Title": "Add custom fields to Tenants and Departments",
+          "Text": "We're new to Moodle Workplace.  We just noticed that the Tenant form and the department form do not show any custom fields to store important metadata .  Could this be addressed via a custom plugin that would extend the schema those entities?",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, April 3, 2024, 8:33 PM",
+          "AuthorName": "VFX Pro",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=4061888&course=5",
+          "role": [
+            "Picture of VFX Pro"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Add custom fields to Tenants and Departments",
+          "Text": "Can you provide a little more detail on where you're looking to store/use the metadata? For clarification, when you say \"form\", are you referring to what appears in a user's Profile, or a site setting page such as the Department's tab located on Site Administration / Users / Organisation / Organisation structure, or such as Site Administration / Users / Accounts / User profile fields?",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, April 5, 2024, 10:11 PM",
+          "AuthorName": "John Provasnik",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1815298&course=5",
+          "role": [
+            "Picture of John Provasnik",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "Re: Add custom fields to Tenants and Departments",
+          "Text": "Hi! I think it is technically possible, but probably not the best way to do it. Additionally, please take into account that it would require not only adding the custom fields but also extending existing reports to include them. I suggest liaising with your Moodle Partner; they'll know the best way to address that need. Cheers, Emilio",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, April 5, 2024, 10:52 PM",
+          "AuthorName": "Emilio Lozano",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1525875&course=5",
+          "role": [
+            "Picture of Emilio Lozano",
+            "Picture of Moodle HQ",
+            "Picture of Moodle Workplace team",
+            "Picture of Particularly helpful Moodlers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 456154,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=456154",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "Workplace Jobs & Organization structure",
+          "Text": "Im curious how Workplace users are leveraging the Jobs & Organization structure feature in Workplace. Are you using it for Reporting, Assigning Courses, both, neither? I see the Team Overview and the Reports blocks are a nice way to get a reports-like dashboard on a Custom Page. Has this been helpful in your Workplace instance? I'm looking for a way for users to not have to run to course to course to find completion data, and the Team Overview block seems like it might be the best route.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Saturday, March 2, 2024, 3:03 AM",
+          "AuthorName": "John Provasnik",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1815298&course=5",
+          "role": [
+            "Picture of John Provasnik",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    },
+    {
+      "PostID": 445614,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=445614",
+      "NoOfResponses": 2,
+      "ResponsesInList": [
+        {
+          "Title": "Moodle Workplace Dynamic Rules Notification Placeholders",
+          "Text": "I am unsure the best approach for providing specific development feedback to the dev team. Help me route if there's a better path. I am running into a limitation with the dynamic rules notification placeholders. Dynamic rules are helpful and the notification feature is a great option for pushing notification to the learners and managers/leaders. There is, however, not currently any consideration for enrolment start or end date. Examples Scenario Learner is enrolled to course X with a start date of 2023-05-01 :00. Notification is triggered to learner when enrolled with start date and basic details. (ex. \"Welcome!\") = [enrolment created=now()] Notification message body may include the respective enrollment starts and enrollment ends dates. An email is triggered a week prior to course access. (ex. \"Get ready!\") = enrolment start-7 Notification is triggered a day prior to enrolment start. (ex. \"Tomorrow's the BIG day!\") = [enrolment start-1] Notification is triggered week after enrolment start. (ex. \"Tips for Week 2\") = [enrolment start+7] Notification is triggered 10 days before the end of the enrollment period. (ex. \"Course Concluding!\") = [enrolment end-10] These are necessary to ensure enrolments are properly engaged without adding manual practices. \n```text\n\n```\n The limitation seems to be that the dynamic rules available placeholders are rather limited both in context and scope of logic. It's a good start, but I'm left with a lot of gaps. Any better solutions? Creative ideas? How to escalate to the dev team? Most of our enrolments are batch uploads so we need rules that trigger. Unless I am missing something, I'd like to advocate for this to be on the development track.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, April 7, 2023, 7:01 AM",
+          "AuthorName": "Adam Brooks",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=5400686&course=5",
+          "role": [
+            "Picture of Adam Brooks"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Moodle Workplace Dynamic Rules Notification Placeholders",
+          "Text": "I'm still new to WP and exploring it's wide array of features, though the Pulse Plugin might be of use for some of the course-specific items, though it would need to be configured per course ( https://docs.moodle.org/403/en/Pulse ).",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, January 5, 2024, 10:32 PM",
+          "AuthorName": "John Provasnik",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1815298&course=5",
+          "role": [
+            "Picture of John Provasnik",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "forumKey": "userExperience",
+  "forumName": "userExperience",
+  "sourceFile": "userExperience_29_1_updated.json",
+  "sampleSize": 15,
+  "filteredOutWithImages": 14,
+  "posts": [
+    {
+      "PostID": 470890,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=470890",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "Vote for this improvement",
+          "Text": "Hello, I've suggested an improvement based on this experience : \"When searching a user to enroll in a course, it's not possible to search with [lastname] [firstname] order. It works only by putting [firstname] before [lastname]\" If you agree with me, you can vote or comment for this request : https://moodle.atlassian.net/browse/MDL-86597 Or better if you want to add a fix for this ? Thanks in advance Best regards Pascal",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, November 12, 2025, 11:41 PM",
+          "AuthorName": "Pascal Pitteloud",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=6475305&course=5",
+          "role": [
+            "Picture of Pascal Pitteloud"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    },
+    {
+      "PostID": 470666,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=470666",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "Need 'Register' button to disappear after user logged in",
+          "Text": "I am trying to solve a problem, which is not working as per available documentation. In my home page, I have enabled two buttons: 'Log In' and 'Register'. This has been done in Home Page setting - by maintaining caption text. The text has been hyperlinked with the required page. Once the user log in, these two buttons should disappear. HTML appears as below: <div class=\"row text-center\"> <div class=\"col-md-6\"><a class=\"btn btn-primary\" href=\"<site name>/login/index.php\">Login</a></div> <div class=\"col-md-6\"><a class=\"btn btn-secondary\" href=\"<site name>/login/signup.php\">Register</a></div> </div> To remove the buttons, in advanced settings, in custom SCSS section, maintaining below: .loggedin . row text-center { display: none !important; } But it does not work. Still both the button appears. Any suggestion? I am using Lambda theme.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, October 29, 2025, 11:20 PM",
+          "AuthorName": "Jaydip Pande",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=3944058&course=5",
+          "role": [
+            "Picture of Jaydip Pande"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    },
+    {
+      "PostID": 470449,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=470449",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "UI Scalability for larger student enrollments",
+          "Text": "One of the hallmarks of a good system is scalability. Moodle works well when there is a small learning population. It is however, more challenging and completely manually when there are large training audiences. I prepared a course that required SME review and feedback prior to release. The course has 55 different cohorts, two of which were the SMEs cohorts. I marked the other cohorts as hidden until the SMEs blessed the course's content for release. To unhide each of the cohorts was a complete maddening experience. One at a time and the screen bounced back to the top of the page. No Select All or Unhide All functionality. No letting the admin self-navigate in a very, long page (death scroll). No filters to quickly check that all cohorts were unhidden.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Friday, October 17, 2025, 4:09 AM",
+          "AuthorName": "Shirley Gregorczyk",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=2328269&course=5",
+          "role": [
+            "Picture of Shirley Gregorczyk",
+            "Picture of Particularly helpful Moodlers"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    },
+    {
+      "PostID": 470414,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=470414",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "Moodle 4.5 question bank: how to see total number of questions?",
+          "Text": "I would like to ask a question regarding the Moodle 4.5 question bank interface. Is there a way to view the total number of questions directly in the interface? I would like to see the total number of questions, including those in subcategories. This feature has always been very useful, as it was available in Moodle 4.1, but I am unable to find it in the current version. Could someone kindly advise how to access this information? Thank you in advance. Best, susana",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, October 15, 2025, 5:36 PM",
+          "AuthorName": "Susana L.",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=141886&course=5",
+          "role": [
+            "Picture of Susana L.",
+            "Picture of Particularly helpful Moodlers"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    },
+    {
+      "PostID": 470370,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=470370",
+      "NoOfResponses": 3,
+      "ResponsesInList": [
+        {
+          "Title": "Customize UI/UX design",
+          "Text": "HI ALL, I would like to customize UI/UX design for dashboard and add some customs page. Could anyone tell me how can I do? Thanks in advance.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Monday, October 13, 2025, 11:17 PM",
+          "AuthorName": "Marwan Salem",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=2092682&course=5",
+          "role": [
+            "Picture of Marwan Salem"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Customize UI/UX design",
+          "Text": "Hi Marwan! There is a page in Moodle Docs about Dashboards ( https://docs.moodle.org/501/en/Dashboard ) that might help you. I hope this helps.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Tuesday, October 14, 2025, 8:19 AM",
+          "AuthorName": "Berta Rincon",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=7466323&course=5",
+          "role": [
+            "Picture of Berta Rincon",
+            "Picture of Moodle HQ"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "Customize UI/UX design",
+          "Text": "Thank you but It is not that I need. I need a custom dashboard.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Tuesday, October 14, 2025, 2:23 PM",
+          "AuthorName": "Marwan Salem",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=2092682&course=5",
+          "role": [
+            "Picture of Marwan Salem"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 470375,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=470375",
+      "NoOfResponses": 2,
+      "ResponsesInList": [
+        {
+          "Title": "Assignment Grade button now buried in ellipsis menu",
+          "Text": "Are any other organisations frustrated with the new Assignment submissions page where \"grade\" button has now been buried under the ellipsis submenu? It's one of the core activities of the page and it's lead to so many unnecessary clicks.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Tuesday, October 14, 2025, 5:47 AM",
+          "AuthorName": "Trev Wood",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=3246648&course=5",
+          "role": [
+            "Picture of Trev Wood"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Assignment Grade button now buried in ellipsis menu",
+          "Text": "This is a baffling decision. Ive not been in the Moodle grader for almost a year at this point, but had to revisit some older work today and my first thought was \"Why?\".",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Tuesday, October 14, 2025, 8:18 AM",
+          "AuthorName": "Bob Gilmore",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1725724&course=5",
+          "role": [
+            "Picture of Bob Gilmore",
+            "Picture of Particularly helpful Moodlers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 470182,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=470182",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "Main menu item incorrectly becomes active when selecting from \"More\" menu",
+          "Text": "Bonjour, There is a display bug in the main menu when it contains submenus. I have reported it here , it has been confirmed, if anyone has a solution to fix it, I would love to hear it. I have tried to fix it myself, but my coding skills are limited. Many thanks to anyone who looks into the problem! [MDL-86779] Main menu item incorrectly becomes active when selecting from \"More\" menu - Moodle Tracker",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Thursday, October 2, 2025, 3:17 PM",
+          "AuthorName": "Julia Bonnin",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=2034762&course=5",
+          "role": [
+            "Picture of Julia Bonnin"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    },
+    {
+      "PostID": 469989,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=469989",
+      "NoOfResponses": 4,
+      "ResponsesInList": [
+        {
+          "Title": "comment on the content level",
+          "Text": "Hi, I am having trouble finding a good plugin that allows our platform to support comment sections for each content section of the course. For each resource, there's a comment section about that resource. Any ideas?",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Saturday, September 20, 2025, 7:35 PM",
+          "AuthorName": "Fares Tinakiche",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=7663637&course=5",
+          "role": [
+            "Picture of Fares Tinakiche"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "comment on the content level",
+          "Text": "The core Comment Block does this for content level - add it to the course page, choose the \"Any Page\" setting, and it will treat the block as unique for the course page and for each activity. However, it does not treat course \"Sections\" as unique. A 3rd Party plugin to consider for Section pages might be: https://moodle.org/plugins/block_course_discuss - The advantage to this plugin is it puts the discussion \"in\" the content area instead of a \"block\" off to the side ( IF your theme supports that).",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Monday, September 22, 2025, 11:02 PM",
+          "AuthorName": "John Provasnik",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1815298&course=5",
+          "role": [
+            "Picture of John Provasnik",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "comment on the content level",
+          "Text": "thank you for the reply it was very helpful, though i would like to know if there's an option where the comment section always get created when a content is created, so i don't have to create it manually each time.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Saturday, September 27, 2025, 8:19 PM",
+          "AuthorName": "Fares Tinakiche",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=7663637&course=5",
+          "role": [
+            "Picture of Fares Tinakiche"
+          ],
+          "IsInitialPost": false
+        },
+        {
+          "Title": "comment on the content level",
+          "Text": "Yes, once the \"Comment Block\" is added to the course page with the \"any page\" setting enabled, then all newly added activities would countinue get a copy of that block. For the 3rd party plugin, I do not think so, I think it has to be manually added to each activity, but I've not used it so I can't say for sure. But if you can download it to try it out, then I'd say treat it like the \"Comment Block\" by try adding it to the course page with the add to \"any page\" setting (then, add a comment into it on the course page, such as \"Course Page Test\". Then, add a new activity to the course and see if it that 3rd party plugin automatically is inside the new activity, and see if it is 'blank' or if it includes that \"Course Page test\" comment.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Monday, September 29, 2025, 10:56 PM",
+          "AuthorName": "John Provasnik",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1815298&course=5",
+          "role": [
+            "Picture of John Provasnik",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 468328,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=468328",
+      "NoOfResponses": 2,
+      "ResponsesInList": [
+        {
+          "Title": "Learning plan templates",
+          "Text": "I believe that my Moodle experience is quite different than other Administrators, as I am the only person who comments on the lack of functionality in the Learning Plan Templates (LPT), Learning Plans (LP) and Competencies. Most days, I shrug my shoulders and carry on. Today (yes, this is a rant) I spent over three hours building a learning plan for a new student. this student has unique competency requirements, so it could not be duplicated from an existing LPT. This one single, student has 106 competencies. Adding each competency is an extremely manual process, but worse than that the Learning plan Template view has no automated ordering capabilities. None. Each competency has to be moved, manually using a UI that looks for like a DOS screen than a modern UI. Just having some method for automated ordering would save me hours every week.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Thursday, June 5, 2025, 10:31 PM",
+          "AuthorName": "Shirley Gregorczyk",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=2328269&course=5",
+          "role": [
+            "Picture of Shirley Gregorczyk",
+            "Picture of Particularly helpful Moodlers"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Learning plan templates",
+          "Text": "It's way easier with the enrol_Programs plugin, including block_programs. The official version is already enough for most cases. I customized a lot in the plugin and also created an extension for it to fulfill our organizational needs.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, July 2, 2025, 5:59 PM",
+          "AuthorName": "Sadik Mert",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=7258539&course=5",
+          "role": [
+            "Picture of Sadik Mert",
+            "Picture of Plugin developers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 468741,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=468741",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "Need to have custom pages for course creation and add course activity by admin or teacher",
+          "Text": "I am using IOMAD with Moodle and they have multi tenancy features. I have my own designs and wireframes and i want to have course creation and course activity creation pages according to that. And those pages are completely different than what we already have with Moodle. How can I achieve that. I want to complete re-design of admin side pages with limited functionality.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Tuesday, July 1, 2025, 10:23 PM",
+          "AuthorName": "Abdullah Qureshi",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=7475566&course=5",
+          "role": [
+            "Picture of Abdullah Qureshi"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    },
+    {
+      "PostID": 467988,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=467988",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "Moodle Course Catalog feature",
+          "Text": "Hello Moodle Expert Community, I know many of your are experiencing this very issue as I've seen multiple threads and searches on this topic. Is there any way to have a navigation , course catalog / course grouping like feature in moodle (similar to what Workplace version has: https://docs.moodle.org/500/en/Catalogue ), I would love to know about it. I have been searching day and night for some type of course categorization and filtering feature that would allow end-users to browse courses rather than just have a long list of courses, and I have not found anything yet. Would love to have something for users that can then choose to enroll in those courses (after they filter), and then would also love to use this categorization for users that are auto-enrolled by their organization rules (dynamic cohorts and rules), so that they can also browse the course catalog. Ideally, would be able to select which courses are available for self-enrollment by cohort  which I think should already work, but I have not found a course catalog like plugin or feature to use. Please help. Monika",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Thursday, May 15, 2025, 6:00 AM",
+          "AuthorName": "Monika Jenkins",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=7033123&course=5",
+          "role": [
+            "Picture of Monika Jenkins"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    },
+    {
+      "PostID": 467940,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=467940",
+      "NoOfResponses": 2,
+      "ResponsesInList": [
+        {
+          "Title": "Add option to control course display on the front page in course settings",
+          "Text": "Description Currently, there is no option in the course settings to specify whether a course appears on the Moodle front page for non-enrolled users, even when the course is visible. This requires global configuration changes or moving the course to hidden categories, which is cumbersome for teachers. Proposed Improvement Add an \"Show on front page\" option in the course settings with: Yes : Course appears on the front page for users with permission . No : Course is visible only to enrolled users and does not appear on the front page. Site default : Follows global site settings.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Monday, May 12, 2025, 8:53 PM",
+          "AuthorName": "genivan santos",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=2467425&course=5",
+          "role": [
+            "Picture of genivan santos"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Add option to control course display on the front page in course settings",
+          "Text": "Hi It would be a good idea to have this option in core Today, it's possible to use a filtercode tag like {mycoursescards} (displays a series of cards for my enrolled courses) or {mycourses} (isplays an unordered list of links to all my enrolled courses). But it's not this the same basic behaviour",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Tuesday, May 13, 2025, 2:07 PM",
+          "AuthorName": "Luiggi Sansonetti",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1297063&course=5",
+          "role": [
+            "Picture of Luiggi Sansonetti",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Plugin developers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 465630,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=465630",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "Reset course completion criteria without deleting existing completions",
+          "Text": "We regularly experience scenarios where customers need to update course completion criteria (for example a new activity has been added), however users with existing completion are not required to complete the new activity. The ability to reset course completion without deleting existing completions would be so valuable and would save hours of work to create new courses and enable completion reports to be run on the same course. I have posted an improvement suggestion and would appreciate if you could vote for it: MDL-84329 Thank you",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Thursday, January 30, 2025, 5:23 PM",
+          "AuthorName": "Becky Henson",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=5184848&course=5",
+          "role": [
+            "Picture of Becky Henson"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    },
+    {
+      "PostID": 465146,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=465146",
+      "NoOfResponses": 2,
+      "ResponsesInList": [
+        {
+          "Title": "Image Aspect Ratios",
+          "Text": "This is just a rant to complain about Course Image aspect ratios. They are different in so many places. From the documentation: The recommended image size for a Moodle course is around 400 to 800 pixels. Or 1:2. Here are the aspect ratios in the following areas: My courses - 10 : 7 Recently accessed courses -  191 : 75 Catalogue - 265∶144 Program (Workplace) 3:2 This is frustrating. I believe there are other images that are displayed in different aspect ratios like Program images and badges.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Saturday, January 11, 2025, 4:17 AM",
+          "AuthorName": "Amanda Chan",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=4606261&course=5",
+          "role": [
+            "Picture of Amanda Chan"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        },
+        {
+          "Title": "Image Aspect Ratios",
+          "Text": "Hello, Amanda! 😊 First of all, could you let me know which theme you are using? Sometimes, the behavior of images can vary depending on the selected theme, as each one may have its own settings and specific dimensions. Additionally, could you share a screenshot of the areas where you notice these differences? This will help us better understand what's happening and find a more targeted solution. Sometimes, the theme's CSS can be adjusted to harmonize proportions and avoid these visual inconsistencies. Eduardo Kraus Teacher and programmer",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Saturday, January 11, 2025, 4:51 AM",
+          "AuthorName": "Eduardo Kraus",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=1428341&course=5",
+          "role": [
+            "Picture of Eduardo Kraus",
+            "Picture of Particularly helpful Moodlers",
+            "Picture of Plugin developers",
+            "Picture of Testers"
+          ],
+          "IsInitialPost": false
+        }
+      ]
+    },
+    {
+      "PostID": 464426,
+      "LinkToPost": "https://moodle.org/mod/forum/discuss.php?d=464426",
+      "NoOfResponses": 1,
+      "ResponsesInList": [
+        {
+          "Title": "Add \"Affected user\" filter in course logs",
+          "Text": "(I'm not sure if this is the right forum for this, but maybe the usability part?) In the logs one can select user in the filter to view their logs in a course, but what is often wanted - at least for us - is the affected user . And to find that, one has to go through all the log posts. There's a column for Affected user, but no filter. Here is a suggestion to add Affected user as a filter in the logs: https://tracker.moodle.org/browse/MDL-82080 Please vote if you find that a useful suggestion.",
+          "HasImageInpost": false,
+          "ImagesInPost": [],
+          "Time": "Wednesday, December 11, 2024, 4:36 PM",
+          "AuthorName": "Peter Diedrichs",
+          "AuthorMoodleLink": "https://moodle.org/user/view.php?id=8060&course=5",
+          "role": [
+            "Picture of Peter Diedrichs",
+            "Picture of Particularly helpful Moodlers"
+          ],
+          "IsInitialPost": true,
+          "IsFeatureRequest": false
+        }
+      ]
+    }
+  ]
+}
