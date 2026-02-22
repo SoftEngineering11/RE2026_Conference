@@ -1,0 +1,55 @@
+SN,IQs,Interview1,Interview2,Interview3,Interview4,Interview5,Interview6,Interview7,Interview8
+U-IQ.1.1,"Which channels do users use to communicate feature requests (e.g., discussion forums or issue trackers)?",Community forum only,Both forum and tracker,Both forum and tracker,"Mediated / organization channel, Issue Tracker","Mediated / organization channel, Issue Tracker",Community forum only,Issue tracker only,Issue tracker only
+U-IQ.1.2,How easy is it to navigate through the channels?,Overloaded / cluttered,Easy / navigable,Overloaded / cluttered,Overloaded / cluttered,Easy / navigable,Easy / navigable,Not navigable,Easy / navigable
+U-IQ.1.3,What information do you include in your feature request?,Intent + Technical details,Intent + Technical details + Links,Intent + Link to Forum,Intent + Technical details + Links,Scenario + Intent + Links,Intent only,Intent + Technical details + Links,Intent + Technical details + Links
+U-IQ.2.1,"After submitting a feature request, how do you usually check whether it has been acted upon?",Automated notifications,Automated notifications,"Manual Checking, Automated notifications",Automated notifications,Automated notifications,Automated notifications,Automated notifications,Automated notifications
+U-IQ.2.2,Who transfers the user requests from channel to a developer?,No one,Moderators,Unknown,Moderators,Moderators or self,Unknown,Moderators or self,Self
+U-IQ.3.1,"Have you ever received any clarification questions or feedback on your request from developers, maintainers, or other users?",No response,No response,"Technical clarification (version, workaround)",Clarification questions (intent/details),Missing information request,Clarification questions (intent/details),Clarification questions (intent/details),Never checked
+U-IQ.3.2,Where do developers communicate with you for clarification if any?,Community forum,Both forum and tracker,Community forum,Issue tracker,Issue tracker,Community forum,Issue tracker,Both forum and tracker
+U-IQ.3.3,How responsive do you feel developers or maintainers are to user requests?,Moderately responsive,Very responsive,Rarely responsive,Rarely responsive,Moderately responsive,Rarely responsive,Not responsive,Not responsive
+U-IQ.3.4,What would make it easier or more effective for you to propose a feature request?,Better navigation / discoverability,Current system is fine,Better acknowledgment + Direct submission + Better navigation,Better forum + Better onboarding for non-technical users,Clearer forum–tracker distinction + Better onboarding,Better acknowledgment + Better communication,Direct submission path + Discoverability,Centralized entry point
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
