@@ -3,7 +3,7 @@
 Details of the community forum dataset.
 
 
-| Forum Name  | # of Posts | # of posts for classified | # of Human Validated Samples | 
+| Forum Name  | # of Posts | # of Posts for Classification | # of Human Validated Classified Post | 
 |-------------|------------|-----------------------------|-----------------------------|
 |accessibility|	743| 455| 25| 
 |analyticsAndReporting|	678| 475|  25| 
