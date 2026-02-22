@@ -2,7 +2,7 @@
 
 Details of the classification of community forum posts.
 
-| Forum Name | # of posts classified | FR identified | Ratio |
+| Forum Name | # of Posts Classified | # of Posts classidied as Feature Request | Ratio |
 |------------|------------------------|---------------|--------|
 | accessibility | 455 | 218 | 47.91% |
 | analyticsAndReporting | 475 | 126 | 26.53% |
