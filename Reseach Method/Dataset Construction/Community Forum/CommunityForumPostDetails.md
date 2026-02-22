@@ -67,3 +67,4 @@ Details of the community forum dataset.
 |webServices|	857| 500| 25| 
 |wiki|	861| 500| 25| 
 |workshop|	50| 304| 25| 
+|Total| 204289|24070|1528|
